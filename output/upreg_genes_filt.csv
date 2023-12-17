@@ -1,0 +1,9 @@
+GO biological process complete,Homo sapiens - REFLIST (20592),upload_1 (181),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+regulation of cell population proliferation (GO:0042127),1670,37,14.68,+,2.52,1.86E-07,2.89E-03
+tissue development (GO:0009888),1747,36,15.36,+,2.34,1.61E-06,6.25E-03
+anatomical structure morphogenesis (GO:0009653),2239,42,19.68,+,2.13,2.08E-06,6.45E-03
+system development (GO:0048731),3548,58,31.19,+,1.86,1.48E-06,7.64E-03
+multicellular organism development (GO:0007275),3959,63,34.8,+,1.81,9.75E-07,7.57E-03
+anatomical structure development (GO:0048856),5189,74,45.61,+,1.62,4.31E-06,1.11E-02
+developmental process (GO:0032502),5689,79,50.01,+,1.58,5.32E-06,1.18E-02
+multicellular organismal process (GO:0032501),6692,87,58.82,+,1.48,1.52E-05,2.94E-02
